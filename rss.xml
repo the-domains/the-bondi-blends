@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Bondi Blends]]></title>
+        <description><![CDATA[The Bondi Blends]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 11:58:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[HEALTHY FOOD FAST]]></title>
+            <description><![CDATA[<article><h1>HEALTHY FOOD FAST</h1><p>The Bondi Blends are a range of Organic Superfood Blends that not only taste delicious – but are SERIOUSLY good for you. Packed with organically-sourced ingredients and superfoods, our blends will help you to feel refreshed and ready to take on the day.</p></article>]]></description>
+            <link>undefinedhealthy-food-fast/index.html</link>
+            <guid isPermaLink="false">77173585-f0f7-4b97-8544-00036c723313</guid>
+            <pubDate>Wed, 30 Mar 2016 11:57:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
